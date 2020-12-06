@@ -1,4 +1,4 @@
-# conFusion_restaurant_app (on a very early stage, will soon try to learn and update here).
+# conFusion_restaurant_app (on a very early stage, will soon try to learn,code and update here).
 A very simple app for beginners(like me) to learn and understand how to use bootstrap to make website attractive and responsive to different devices and much more.
 
 
